@@ -28,9 +28,9 @@ Importing necessary packages for developing solutions. Packages like numpy,panda
 
 Now the filtered and most suitable data is extracted and we create ranges for each category and unit as output.
 
-Language/Tech used
+## Language/Tech used 
 Python Language.
 
-Any assumptions taken
+## Any assumptions taken
 The actual data will have most intutitive information. For example Price of a product is 5000 and for the same unit is 1000. So the underline assumption is the price is recorded for the same number of quantities. i.e. the number of unit purchased is x and the price is 5000 and for same number of unit x the price is 1000. Per unit price would be more effective.
 Seaonality in the data is constant. Say the price for a product is same for all season. Even in the sale perios the price is same.
