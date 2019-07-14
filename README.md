@@ -10,7 +10,7 @@ A working prototype solution has three part
 ***Algorithm/Model used for removing outlier***
 
 **Kmeans for clustering:** For extracting patterns in the price column. We can also consider this step as to identify two different patterns: one being acceptable range of values for Price and the other acting as an outlier.
-Standard deviation method for detcting outliers: Removing values that fall ounder 3 Standard deviations on either side.
+Standard deviation method for detecting outliers: Removing values that fall ounder 3 Standard deviations on either side.
 Code Applied
 We have implemented the code in python. Below is the actual code. The program flow is as follows:
 
@@ -33,4 +33,4 @@ Python Language.
 
 ## Any assumptions taken
 The actual data will have most intutitive information. For example Price of a product is 5000 and for the same unit is 1000. So the underline assumption is the price is recorded for the same number of quantities. i.e. the number of unit purchased is x and the price is 5000 and for same number of unit x the price is 1000. Per unit price would be more effective.
-Seaonality in the data is constant. Say the price for a product is same for all season. Even in the sale perios the price is same.
+Seasonality in the data is constant. Say the price for a product is same for all season. Even in the sale period the price is same.
