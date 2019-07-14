@@ -1,518 +1,518 @@
-,category,max_range,min_range,unit_type
-AC Motors_box,AC Motors,1600.0,1600.0,box
-AC Motors_number,AC Motors,25000.0,22000.0,number
-AC Motors_piece,AC Motors,12000.0,45.0,piece
-AC Motors_set,AC Motors,100.0,100.0,set
-AC Motors_unit,AC Motors,28000.0,2000.0,unit
-Acme Safety Shoes_box,Acme Safety Shoes,860.0,860.0,box
-Acme Safety Shoes_pair,Acme Safety Shoes,1200.0,200.0,pair
-Acme Safety Shoes_piece,Acme Safety Shoes,399.0,200.0,piece
-Acme Safety Shoes_unit,Acme Safety Shoes,720.0,680.0,unit
-Air Conditioner Voltage Stabilizer_box,Air Conditioner Voltage Stabilizer,1900.0,300.0,box
-Air Conditioner Voltage Stabilizer_number,Air Conditioner Voltage Stabilizer,1250.0,1250.0,number
-Air Conditioner Voltage Stabilizer_piece,Air Conditioner Voltage Stabilizer,10000.0,120.0,piece
-Air Conditioner Voltage Stabilizer_unit,Air Conditioner Voltage Stabilizer,3500.0,1439.6,unit
-Air Spray Gun_piece,Air Spray Gun,22000.0,100.0,piece
-Air Spray Gun_unit,Air Spray Gun,36000.0,33000.0,unit
-Aluminium False Ceilings_number,Aluminium False Ceilings,200.0,200.0,number
-Aluminium False Ceilings_piece,Aluminium False Ceilings,270.0,40.0,piece
-Aluminium False Ceilings_square feet,Aluminium False Ceilings,135.0,8.5,square feet
-Aluminium False Ceilings_square inch,Aluminium False Ceilings,1.0,1.0,square inch
-Aluminium False Ceilings_square meter,Aluminium False Ceilings,650.0,650.0,square meter
-Aluminium Melting Furnace_number,Aluminium Melting Furnace,750000.0,255000.0,number
-Aluminium Melting Furnace_piece,Aluminium Melting Furnace,600000.0,50000.0,piece
-Aluminium Melting Furnace_set,Aluminium Melting Furnace,500000.0,500000.0,set
-Aluminium Melting Furnace_unit,Aluminium Melting Furnace,550000.0,100000.0,unit
-Aluminum Cables_kilogram,Aluminum Cables,120.0,85.0,kilogram
-Aluminum Cables_meter,Aluminum Cables,200.0,0.5,meter
-Aluminum Cables_roll,Aluminum Cables,900.0,585.0,roll
-Aluminum Cables_square meter,Aluminum Cables,37.0,37.0,square meter
-Aluminum Cables_unit,Aluminum Cables,789.0,789.0,unit
-Audio Amplifiers_box,Audio Amplifiers,38500.0,38500.0,box
-Audio Amplifiers_number,Audio Amplifiers,90000.0,90000.0,number
-Audio Amplifiers_one,Audio Amplifiers,13515.0,13515.0,one
-Audio Amplifiers_piece,Audio Amplifiers,31746.0,40.0,piece
-Audio Amplifiers_unit,Audio Amplifiers,42000.0,42000.0,unit
-Backhoe Loader_day,Backhoe Loader,80000.0,80000.0,day
-Backhoe Loader_hour,Backhoe Loader,900.0,900.0,hour
-Backhoe Loader_number,Backhoe Loader,2690000.0,1600000.0,number
-Backhoe Loader_one,Backhoe Loader,550000.0,550000.0,one
-Backhoe Loader_ounce,Backhoe Loader,690000.0,690000.0,ounce
-Backhoe Loader_piece,Backhoe Loader,1350000.0,22000.0,piece
-Backhoe Loader_set,Backhoe Loader,25000000.0,25000000.0,set
-Backhoe Loader_unit,Backhoe Loader,2795000.0,1650000.0,unit
-Bag Filling Machine_number,Bag Filling Machine,300000.0,300000.0,number
-Bag Filling Machine_piece,Bag Filling Machine,380000.0,150000.0,piece
-Bag Filling Machine_unit,Bag Filling Machine,395000.0,300000.0,unit
-Belt Conveyors_feet,Belt Conveyors,5000.0,2500.0,feet
-Belt Conveyors_foot,Belt Conveyors,10000.0,8000.0,foot
-Belt Conveyors_meter,Belt Conveyors,65000.0,500.0,meter
-Belt Conveyors_number,Belt Conveyors,300000.0,5000.0,number
-Belt Conveyors_piece,Belt Conveyors,350000.0,1000.0,piece
-Belt Conveyors_running feet,Belt Conveyors,3500.0,3500.0,running feet
-Belt Conveyors_set,Belt Conveyors,150000.0,15000.0,set
-Belt Conveyors_square feet,Belt Conveyors,10000.0,10000.0,square feet
-Belt Conveyors_square meter,Belt Conveyors,25000.0,1200.0,square meter
-Belt Conveyors_unit,Belt Conveyors,350000.0,1000.0,unit
-Belt Pulley_bag,Belt Pulley,1450.0,1450.0,bag
-Belt Pulley_inch,Belt Pulley,30.0,23.0,inch
-Belt Pulley_kilogram,Belt Pulley,70.0,50.0,kilogram
-Belt Pulley_kit,Belt Pulley,399.0,399.0,kit
-Belt Pulley_number,Belt Pulley,1800.0,15.0,number
-Belt Pulley_pair,Belt Pulley,249.0,249.0,pair
-Belt Pulley_piece,Belt Pulley,2500.0,40.0,piece
-Belt Pulley_unit,Belt Pulley,1000.0,105.0,unit
-Bench Drilling Machine_number,Bench Drilling Machine,23800.0,23800.0,number
-Bench Drilling Machine_piece,Bench Drilling Machine,18500.0,4890.0,piece
-Bench Drilling Machine_set,Bench Drilling Machine,320000.0,320000.0,set
-Bench Drilling Machine_unit,Bench Drilling Machine,60000.0,4500.0,unit
-Bio Fertilizers_50kg,Bio Fertilizers,1150.0,1150.0,50kg
-Bio Fertilizers_bag,Bio Fertilizers,1500.0,40.0,bag
-Bio Fertilizers_barrel,Bio Fertilizers,1000.0,450.0,barrel
-Bio Fertilizers_bottle,Bio Fertilizers,475.0,20.0,bottle
-Bio Fertilizers_box,Bio Fertilizers,630.0,225.0,box
-Bio Fertilizers_gallon,Bio Fertilizers,499.0,499.0,gallon
-Bio Fertilizers_gram,Bio Fertilizers,350.0,30.0,gram
-Bio Fertilizers_kilogram,Bio Fertilizers,1600.0,3.25,kilogram
-Bio Fertilizers_litre,Bio Fertilizers,500.0,20.0,litre
-Bio Fertilizers_long ton,Bio Fertilizers,3000.0,3000.0,long ton
-Bio Fertilizers_metric ton,Bio Fertilizers,10500.0,7800.0,metric ton
-Bio Fertilizers_milliliter,Bio Fertilizers,80.0,75.0,milliliter
-Bio Fertilizers_number,Bio Fertilizers,550.0,50.0,number
-Bio Fertilizers_pack,Bio Fertilizers,440.0,30.0,pack
-Bio Fertilizers_packet,Bio Fertilizers,630.0,25.0,packet
-Bio Fertilizers_piece,Bio Fertilizers,300.0,20.0,piece
-Bio Fertilizers_set,Bio Fertilizers,1500.0,1500.0,set
-Bio Fertilizers_ton,Bio Fertilizers,9000.0,5000.0,ton
-Bio Fertilizers_tons,Bio Fertilizers,7500.0,7500.0,tons
-Bio Fertilizers_unit,Bio Fertilizers,320.0,120.0,unit
-Biometric Devices_one,Biometric Devices,7199.0,5200.0,one
-Biometric Devices_packet,Biometric Devices,22000.0,22000.0,packet
-Biometric Devices_piece,Biometric Devices,15000.0,1.0,piece
-Biometric Devices_set,Biometric Devices,9500.0,9500.0,set
-Biometric Devices_unit,Biometric Devices,5550.0,1800.0,unit
-Bottle Filling Machines_bottle,Bottle Filling Machines,50000.0,50000.0,bottle
-Bottle Filling Machines_number,Bottle Filling Machines,1950000.0,900000.0,number
-Bottle Filling Machines_pair,Bottle Filling Machines,850000.0,850000.0,pair
-Bottle Filling Machines_piece,Bottle Filling Machines,850000.0,9.0,piece
-Bottle Filling Machines_set,Bottle Filling Machines,1950000.0,650000.0,set
-Bottle Filling Machines_square feet,Bottle Filling Machines,700000.0,700000.0,square feet
-Bottle Filling Machines_unit,Bottle Filling Machines,3500000.0,18000.0,unit
-Bucket Elevator_feet,Bucket Elevator,4000.0,1500.0,feet
-Bucket Elevator_foot,Bucket Elevator,2500.0,2000.0,foot
-Bucket Elevator_kilogram,Bucket Elevator,450.0,450.0,kilogram
-Bucket Elevator_meter,Bucket Elevator,20000.0,20000.0,meter
-Bucket Elevator_number,Bucket Elevator,210000.0,138000.0,number
-Bucket Elevator_piece,Bucket Elevator,550000.0,1.0,piece
-Bucket Elevator_set,Bucket Elevator,320000.0,320000.0,set
-Bucket Elevator_unit,Bucket Elevator,480000.0,100.0,unit
-Busbar Systems_meter,Busbar Systems,2900.0,450.0,meter
-Busbar Systems_number,Busbar Systems,3688.0,3688.0,number
-Busbar Systems_piece,Busbar Systems,250.0,25.0,piece
-Busbar Systems_unit,Busbar Systems,150000.0,8120.0,unit
-Butt Hinges_box,Butt Hinges,92.0,92.0,box
-Butt Hinges_kilogram,Butt Hinges,100.0,45.0,kilogram
-Butt Hinges_packet,Butt Hinges,75.0,75.0,packet
-Butt Hinges_piece,Butt Hinges,140.0,3.65,piece
-Butt Hinges_set,Butt Hinges,6500.0,6500.0,set
-Butt Hinges_unit,Butt Hinges,13.5,13.5,unit
-Button Hole Machine_carton,Button Hole Machine,185000.0,185000.0,carton
-Button Hole Machine_number,Button Hole Machine,135000.0,135000.0,number
-Button Hole Machine_piece,Button Hole Machine,225000.0,1.0,piece
-Button Hole Machine_set,Button Hole Machine,165000.0,70000.0,set
-Button Hole Machine_unit,Button Hole Machine,86000.0,22000.0,unit
-CNC Milling Machine_number,CNC Milling Machine,621000.0,621000.0,number
-CNC Milling Machine_piece,CNC Milling Machine,1750000.0,1.0,piece
-CNC Milling Machine_set,CNC Milling Machine,900000.0,900000.0,set
-CNC Milling Machine_unit,CNC Milling Machine,3000000.0,250000.0,unit
-Camera Lenses_piece,Camera Lenses,205990.0,45.0,piece
-Camera Lenses_set,Camera Lenses,22000.0,22000.0,set
-Camera Lenses_unit,Camera Lenses,2100.0,2100.0,unit
-Canon Digital Camera_bag,Canon Digital Camera,33000.0,33000.0,bag
-Canon Digital Camera_piece,Canon Digital Camera,60000.0,25000.0,piece
-Canon Digital Camera_unit,Canon Digital Camera,75000.0,16000.0,unit
-Coffee Makers_box,Coffee Makers,11500.0,11500.0,box
-Coffee Makers_piece,Coffee Makers,16500.0,1.0,piece
-Coffee Makers_unit,Coffee Makers,7500.0,7000.0,unit
-Color Printers_box,Color Printers,45000.0,34999.0,box
-Color Printers_number,Color Printers,90000.0,19500.0,number
-Color Printers_ounce,Color Printers,118000.0,118000.0,ounce
-Color Printers_piece,Color Printers,379500.0,2050.0,piece
-Color Printers_set,Color Printers,100000.0,100.0,set
-Color Printers_unit,Color Printers,121000.0,7500.0,unit
-Colored Contact Lenses_box,Colored Contact Lenses,2600.0,2600.0,box
-Colored Contact Lenses_pair,Colored Contact Lenses,750.0,199.0,pair
-Colored Contact Lenses_piece,Colored Contact Lenses,250.0,250.0,piece
-Compressor Oil_20 container,Compressor Oil,3400.0,3400.0,20 container
-Compressor Oil_barrel,Compressor Oil,29400.0,29400.0,barrel
-Compressor Oil_litre,Compressor Oil,650.0,1.0,litre
-Compressor Oil_piece,Compressor Oil,5000.0,300.0,piece
-Conveyor Chains_feet,Conveyor Chains,600.0,150.0,feet
-Conveyor Chains_foot,Conveyor Chains,185.0,100.0,foot
-Conveyor Chains_meter,Conveyor Chains,2000.0,100.0,meter
-Conveyor Chains_number,Conveyor Chains,10000.0,10000.0,number
-Conveyor Chains_packet,Conveyor Chains,1500.0,1500.0,packet
-Conveyor Chains_piece,Conveyor Chains,4000.0,100.0,piece
-Conveyor Chains_square feet,Conveyor Chains,87.0,87.0,square feet
-Conveyor Chains_unit,Conveyor Chains,10000.0,100.0,unit
-Copper Cables_box,Copper Cables,2433.0,2433.0,box
-Copper Cables_bundle,Copper Cables,23.0,23.0,bundle
-Copper Cables_kilogram,Copper Cables,550.0,550.0,kilogram
-Copper Cables_meter,Copper Cables,300.0,2.0,meter
-Copper Cables_packet,Copper Cables,710.0,710.0,packet
-Copper Cables_piece,Copper Cables,16970.0,140.0,piece
-Copper Cables_roll,Copper Cables,2656.0,350.0,roll
-Copper Cables_unit,Copper Cables,3820.0,3820.0,unit
-Copper Earthing Electrode_inch,Copper Earthing Electrode,8.0,8.0,inch
-Copper Earthing Electrode_kilogram,Copper Earthing Electrode,4501.0,285.0,kilogram
-Copper Earthing Electrode_meter,Copper Earthing Electrode,600.0,450.0,meter
-Copper Earthing Electrode_number,Copper Earthing Electrode,1250.0,10.0,number
-Copper Earthing Electrode_pack,Copper Earthing Electrode,5500.0,5500.0,pack
-Copper Earthing Electrode_piece,Copper Earthing Electrode,16000.0,7800.0,piece
-Copper Earthing Electrode_set,Copper Earthing Electrode,4000.0,1200.0,set
-Copper Earthing Electrode_unit,Copper Earthing Electrode,6500.0,2500.0,unit
-Desiccant Dryers_number,Desiccant Dryers,12000.0,12000.0,number
-Desiccant Dryers_piece,Desiccant Dryers,300000.0,300000.0,piece
-Desiccant Dryers_unit,Desiccant Dryers,50000.0,15000.0,unit
-Diesel Air Compressor_month,Diesel Air Compressor,25000.0,25000.0,month
-Diesel Air Compressor_piece,Diesel Air Compressor,42600.0,25000.0,piece
-Diesel Air Compressor_set,Diesel Air Compressor,650000.0,650000.0,set
-Diesel Air Compressor_unit,Diesel Air Compressor,1260000.0,575000.0,unit
-Drum Mixers_number,Drum Mixers,4850000.0,4850000.0,number
-Drum Mixers_piece,Drum Mixers,100000.0,17000.0,piece
-Drum Mixers_set,Drum Mixers,45000.0,45000.0,set
-Drum Mixers_unit,Drum Mixers,150000.0,22000.0,unit
-Dyed Polyester Yarn_kilogram,Dyed Polyester Yarn,190.0,60.0,kilogram
-Dyed Polyester Yarn_packet,Dyed Polyester Yarn,27.0,27.0,packet
-Dyed Polyester Yarn_piece,Dyed Polyester Yarn,130.0,25.0,piece
-Dyed Polyester Yarn_unit,Dyed Polyester Yarn,82.0,82.0,unit
-Eco Friendly Disposable Plates_box,Eco Friendly Disposable Plates,5700.0,4000.0,box
-Eco Friendly Disposable Plates_bundle,Eco Friendly Disposable Plates,30.0,30.0,bundle
-Eco Friendly Disposable Plates_dozen,Eco Friendly Disposable Plates,100.0,100.0,dozen
-Eco Friendly Disposable Plates_kilogram,Eco Friendly Disposable Plates,40.0,40.0,kilogram
-Eco Friendly Disposable Plates_litre,Eco Friendly Disposable Plates,220.0,220.0,litre
-Eco Friendly Disposable Plates_pack,Eco Friendly Disposable Plates,60.0,8.7,pack
-Eco Friendly Disposable Plates_packet,Eco Friendly Disposable Plates,55.0,7.0,packet
-Eco Friendly Disposable Plates_piece,Eco Friendly Disposable Plates,5.75,0.3,piece
-Eco Friendly Disposable Plates_plate,Eco Friendly Disposable Plates,3.9,3.1,plate
-Eco Friendly Disposable Plates_unit,Eco Friendly Disposable Plates,8.0,6.0,unit
-Electric Industrial Oven_number,Electric Industrial Oven,350000.0,95000.0,number
-Electric Industrial Oven_piece,Electric Industrial Oven,350000.0,15000.0,piece
-Electric Industrial Oven_set,Electric Industrial Oven,75000.0,75000.0,set
-Electric Industrial Oven_unit,Electric Industrial Oven,230000.0,10000.0,unit
-Electric Irons_carton,Electric Irons,380.0,380.0,carton
-Electric Irons_dozen,Electric Irons,400.0,400.0,dozen
-Electric Irons_kilogram,Electric Irons,8.0,8.0,kilogram
-Electric Irons_piece,Electric Irons,1350.0,45.0,piece
-Electric Irons_set,Electric Irons,1800.0,1800.0,set
-Electric Irons_unit,Electric Irons,400.0,25.0,unit
-Embroidery Machine_number,Embroidery Machine,350000.0,185000.0,number
-Embroidery Machine_packet,Embroidery Machine,1.0,1.0,packet
-Embroidery Machine_piece,Embroidery Machine,1500000.0,3600.0,piece
-Embroidery Machine_set,Embroidery Machine,525000.0,100.0,set
-Embroidery Machine_unit,Embroidery Machine,2500000.0,1400000.0,unit
-End Loader_piece,End Loader,290000.0,130000.0,piece
-End Loader_set,End Loader,75000.0,75000.0,set
-End Loader_unit,End Loader,415000.0,170000.0,unit
-Fire Safety Wear_meter,Fire Safety Wear,600.0,600.0,meter
-Fire Safety Wear_number,Fire Safety Wear,21500.0,21500.0,number
-Fire Safety Wear_piece,Fire Safety Wear,15000.0,650.0,piece
-Fire Safety Wear_set,Fire Safety Wear,70000.0,10000.0,set
-Fire Safety Wear_unit,Fire Safety Wear,7500.0,4500.0,unit
-Fleece Fabrics_kilogram,Fleece Fabrics,285.0,120.0,kilogram
-Fleece Fabrics_meter,Fleece Fabrics,500.0,250.0,meter
-Fleece Fabrics_set,Fleece Fabrics,690.0,690.0,set
-Food Processor_box,Food Processor,650.0,650.0,box
-Food Processor_piece,Food Processor,10994.0,800.0,piece
-Food Processor_set,Food Processor,7500.0,7500.0,set
-Food Processor_unit,Food Processor,7500.0,7500.0,unit
-Granules Packing Machine_piece,Granules Packing Machine,200000.0,39000.0,piece
-Granules Packing Machine_set,Granules Packing Machine,350000.0,225000.0,set
-Granules Packing Machine_unit,Granules Packing Machine,400000.0,90000.0,unit
-HMI Touch Panel_box,HMI Touch Panel,40000.0,27000.0,box
-HMI Touch Panel_number,HMI Touch Panel,25000.0,1000.0,number
-HMI Touch Panel_person,HMI Touch Panel,2000.0,2000.0,person
-HMI Touch Panel_piece,HMI Touch Panel,50000.0,1000.0,piece
-HMI Touch Panel_unit,HMI Touch Panel,62300.0,1000.0,unit
-Hair Removal Laser Machine_box,Hair Removal Laser Machine,11000.0,11000.0,box
-Hair Removal Laser Machine_number,Hair Removal Laser Machine,375000.0,375000.0,number
-Hair Removal Laser Machine_piece,Hair Removal Laser Machine,490000.0,1.0,piece
-Hair Removal Laser Machine_set,Hair Removal Laser Machine,173000.0,173000.0,set
-Hair Removal Laser Machine_unit,Hair Removal Laser Machine,525000.0,8.5,unit
-Hand Operated Hydraulic Press_millimeter,Hand Operated Hydraulic Press,50000.0,50000.0,millimeter
-Hand Operated Hydraulic Press_piece,Hand Operated Hydraulic Press,45000.0,15000.0,piece
-Hand Operated Hydraulic Press_set,Hand Operated Hydraulic Press,200000.0,200000.0,set
-Hand Operated Hydraulic Press_unit,Hand Operated Hydraulic Press,110000.0,1.0,unit
-Heat Resistant Conveyor Belt_feet,Heat Resistant Conveyor Belt,8000.0,8000.0,feet
-Heat Resistant Conveyor Belt_meter,Heat Resistant Conveyor Belt,1600.0,30.0,meter
-Heat Resistant Conveyor Belt_number,Heat Resistant Conveyor Belt,1190.0,1190.0,number
-Heat Resistant Conveyor Belt_piece,Heat Resistant Conveyor Belt,700.0,700.0,piece
-Heat Resistant Conveyor Belt_square feet,Heat Resistant Conveyor Belt,500.0,500.0,square feet
-Heat Resistant Conveyor Belt_square meter,Heat Resistant Conveyor Belt,1300.0,700.0,square meter
-High Pressure Air Compressor_number,High Pressure Air Compressor,225000.0,20000.0,number
-High Pressure Air Compressor_piece,High Pressure Air Compressor,200000.0,14000.0,piece
-High Pressure Air Compressor_set,High Pressure Air Compressor,165000.0,65000.0,set
-High Pressure Air Compressor_unit,High Pressure Air Compressor,360000.0,10000.0,unit
-Hydraulic Bending Machine_piece,Hydraulic Bending Machine,650000.0,160000.0,piece
-Hydraulic Bending Machine_unit,Hydraulic Bending Machine,50000.0,50000.0,unit
-Jar Filling Machine_number,Jar Filling Machine,500000.0,500000.0,number
-Jar Filling Machine_piece,Jar Filling Machine,300000.0,5000.0,piece
-Jar Filling Machine_set,Jar Filling Machine,600000.0,600000.0,set
-Jar Filling Machine_unit,Jar Filling Machine,650000.0,200000.0,unit
-Jindal GI Pipe_feet,Jindal GI Pipe,27.0,27.0,feet
-Jindal GI Pipe_kilogram,Jindal GI Pipe,65.0,45.0,kilogram
-Jindal GI Pipe_meter,Jindal GI Pipe,140.0,20.0,meter
-Jindal GI Pipe_piece,Jindal GI Pipe,1000.0,747.0,piece
-Jindal GI Pipe_ton,Jindal GI Pipe,32500.0,32500.0,ton
-Juicer Mixer Grinder_box,Juicer Mixer Grinder,2500.0,699.0,box
-Juicer Mixer Grinder_carton,Juicer Mixer Grinder,1200.0,1200.0,carton
-Juicer Mixer Grinder_number,Juicer Mixer Grinder,1499.0,1499.0,number
-Juicer Mixer Grinder_one,Juicer Mixer Grinder,1450.0,1400.0,one
-Juicer Mixer Grinder_pack,Juicer Mixer Grinder,5990.0,2600.0,pack
-Juicer Mixer Grinder_packet,Juicer Mixer Grinder,2700.0,2700.0,packet
-Juicer Mixer Grinder_pair,Juicer Mixer Grinder,3500.0,3500.0,pair
-Juicer Mixer Grinder_piece,Juicer Mixer Grinder,8000.0,1.0,piece
-Juicer Mixer Grinder_set,Juicer Mixer Grinder,2750.0,825.0,set
-Juicer Mixer Grinder_unit,Juicer Mixer Grinder,2000.0,199.0,unit
-Knitted Yarn_kilogram,Knitted Yarn,450.0,30.0,kilogram
-Knitted Yarn_piece,Knitted Yarn,205.0,1.0,piece
-Ladies Palazzo_bag,Ladies Palazzo,190.0,190.0,bag
-Ladies Palazzo_box,Ladies Palazzo,110.0,105.0,box
-Ladies Palazzo_carton,Ladies Palazzo,130.0,130.0,carton
-Ladies Palazzo_meter,Ladies Palazzo,125.0,125.0,meter
-Ladies Palazzo_number,Ladies Palazzo,750.0,130.0,number
-Ladies Palazzo_packet,Ladies Palazzo,299.0,290.0,packet
-Ladies Palazzo_pair,Ladies Palazzo,180.0,180.0,pair
-Ladies Palazzo_piece,Ladies Palazzo,474.0,1.0,piece
-Ladies Palazzo_set,Ladies Palazzo,795.0,200.0,set
-Ladies Palazzo_unit,Ladies Palazzo,500.0,130.0,unit
-Leather Flash Drive_piece,Leather Flash Drive,434.0,140.0,piece
-Lining Fabric_kilogram,Lining Fabric,210.0,205.0,kilogram
-Lining Fabric_meter,Lining Fabric,65.0,4.0,meter
-Lining Fabric_piece,Lining Fabric,13.5,13.5,piece
-Lining Fabric_roll,Lining Fabric,1500.0,1500.0,roll
-Lining Fabric_unit,Lining Fabric,60.0,60.0,unit
-Liquid Filling Machine_bottle,Liquid Filling Machine,50000.0,50000.0,bottle
-Liquid Filling Machine_number,Liquid Filling Machine,450000.0,70000.0,number
-Liquid Filling Machine_pair,Liquid Filling Machine,950000.0,950000.0,pair
-Liquid Filling Machine_piece,Liquid Filling Machine,550000.0,15.0,piece
-Liquid Filling Machine_pouch,Liquid Filling Machine,104000.0,104000.0,pouch
-Liquid Filling Machine_set,Liquid Filling Machine,1950000.0,35000.0,set
-Liquid Filling Machine_square feet,Liquid Filling Machine,700000.0,700000.0,square feet
-Liquid Filling Machine_unit,Liquid Filling Machine,550000.0,1200.0,unit
-Marble God Statue_box,Marble God Statue,5100.0,5100.0,box
-Marble God Statue_feet,Marble God Statue,21000.0,11000.0,feet
-Marble God Statue_foot,Marble God Statue,10000.0,3500.0,foot
-Marble God Statue_inch,Marble God Statue,2200.0,800.0,inch
-Marble God Statue_pack,Marble God Statue,23500.0,23500.0,pack
-Marble God Statue_pair,Marble God Statue,25000.0,11000.0,pair
-Marble God Statue_piece,Marble God Statue,70000.0,1.0,piece
-Marble God Statue_set,Marble God Statue,45000.0,11000.0,set
-Marble God Statue_unit,Marble God Statue,21000.0,1000.0,unit
-Mens Capri_piece,Mens Capri,250.0,45.0,piece
-Mineral Water Filling Machine_number,Mineral Water Filling Machine,750000.0,650000.0,number
-Mineral Water Filling Machine_pair,Mineral Water Filling Machine,950000.0,950000.0,pair
-Mineral Water Filling Machine_piece,Mineral Water Filling Machine,950000.0,5000.0,piece
-Mineral Water Filling Machine_set,Mineral Water Filling Machine,1700000.0,1350000.0,set
-Mineral Water Filling Machine_unit,Mineral Water Filling Machine,2500000.0,280000.0,unit
-Optical Fiber_meter,Optical Fiber,19.0,4.0,meter
-Optical Fiber_number,Optical Fiber,700.0,700.0,number
-Optical Fiber_piece,Optical Fiber,190000.0,190000.0,piece
-Optical Fiber_set,Optical Fiber,365.0,365.0,set
-Optical Fiber_unit,Optical Fiber,100.0,14.0,unit
-PVC Cables_box,PVC Cables,490.0,360.0,box
-PVC Cables_bundle,PVC Cables,1333.0,1333.0,bundle
-PVC Cables_kilogram,PVC Cables,113.33,113.33,kilogram
-PVC Cables_meter,PVC Cables,100.0,0.2,meter
-PVC Cables_piece,PVC Cables,720.0,10.0,piece
-PVC Cables_roll,PVC Cables,224.0,125.0,roll
-PVC Cables_unit,PVC Cables,3050.0,2552.0,unit
-PVC Roofing Sheet_bag,PVC Roofing Sheet,302.0,302.0,bag
-PVC Roofing Sheet_kilogram,PVC Roofing Sheet,82.0,70.0,kilogram
-PVC Roofing Sheet_meter,PVC Roofing Sheet,250.0,250.0,meter
-PVC Roofing Sheet_piece,PVC Roofing Sheet,1050.0,1050.0,piece
-PVC Roofing Sheet_sheet,PVC Roofing Sheet,600.0,600.0,sheet
-PVC Roofing Sheet_square feet,PVC Roofing Sheet,125.0,12.0,square feet
-PVC Roofing Sheet_square meter,PVC Roofing Sheet,550.0,350.0,square meter
-Pneumatic Impact Wrenches_kit,Pneumatic Impact Wrenches,4500.0,4500.0,kit
-Pneumatic Impact Wrenches_number,Pneumatic Impact Wrenches,16900.0,9800.0,number
-Pneumatic Impact Wrenches_piece,Pneumatic Impact Wrenches,22000.0,1.0,piece
-Pneumatic Impact Wrenches_unit,Pneumatic Impact Wrenches,12500.0,4500.0,unit
-Polyester Filament Yarn_kilogram,Polyester Filament Yarn,400.0,1.7,kilogram
-Polyester Filament Yarn_roll,Polyester Filament Yarn,700.0,700.0,roll
-Polyester Textured Yarn_box,Polyester Textured Yarn,200.0,200.0,box
-Polyester Textured Yarn_kilogram,Polyester Textured Yarn,110.0,2.56,kilogram
-Polyester Textured Yarn_kilometer,Polyester Textured Yarn,165.0,165.0,kilometer
-Polyester Textured Yarn_piece,Polyester Textured Yarn,134.0,134.0,piece
-Polyester Thread_box,Polyester Thread,260.0,44.0,box
-Polyester Thread_dozen,Polyester Thread,400.0,400.0,dozen
-Polyester Thread_kilogram,Polyester Thread,250.0,120.0,kilogram
-Polyester Thread_meter,Polyester Thread,80.0,80.0,meter
-Polyester Thread_number,Polyester Thread,40.0,40.0,number
-Polyester Thread_packet,Polyester Thread,240.0,57.0,packet
-Polyester Thread_piece,Polyester Thread,45.0,5.0,piece
-Polyester Thread_roll,Polyester Thread,400.0,230.0,roll
-Polyester Thread_unit,Polyester Thread,52.0,24.0,unit
-Porcelain Tiles_box,Porcelain Tiles,660.0,1.0,box
-Porcelain Tiles_square feet,Porcelain Tiles,125.0,20.0,square feet
-Porcelain Tiles_square meter,Porcelain Tiles,7.0,3.4,square meter
-Porcelain Tiles_unit,Porcelain Tiles,80.0,80.0,unit
-Pouch Filling Machine_bag,Pouch Filling Machine,110000.0,110000.0,bag
-Pouch Filling Machine_piece,Pouch Filling Machine,170000.0,39000.0,piece
-Pouch Filling Machine_set,Pouch Filling Machine,196800.0,165000.0,set
-Pouch Filling Machine_unit,Pouch Filling Machine,200000.0,35000.0,unit
-Powder Filling Machine_month,Powder Filling Machine,565000.0,565000.0,month
-Powder Filling Machine_number,Powder Filling Machine,275000.0,150000.0,number
-Powder Filling Machine_piece,Powder Filling Machine,1000000.0,25552.0,piece
-Powder Filling Machine_set,Powder Filling Machine,150000.0,135000.0,set
-Powder Filling Machine_unit,Powder Filling Machine,400000.0,125000.0,unit
-Refrigeration Compressors_number,Refrigeration Compressors,12000.0,12000.0,number
-Refrigeration Compressors_piece,Refrigeration Compressors,30000.0,1600.0,piece
-Refrigeration Compressors_unit,Refrigeration Compressors,25000.0,5000.0,unit
-Roller Conveyor_bag,Roller Conveyor,350.0,350.0,bag
-Roller Conveyor_feet,Roller Conveyor,4850.0,4850.0,feet
-Roller Conveyor_foot,Roller Conveyor,4500.0,4500.0,foot
-Roller Conveyor_meter,Roller Conveyor,40500.0,1500.0,meter
-Roller Conveyor_number,Roller Conveyor,60000.0,300.0,number
-Roller Conveyor_pair,Roller Conveyor,20000.0,20000.0,pair
-Roller Conveyor_piece,Roller Conveyor,250000.0,3.0,piece
-Roller Conveyor_plate,Roller Conveyor,120000.0,120000.0,plate
-Roller Conveyor_set,Roller Conveyor,40000.0,40000.0,set
-Roller Conveyor_square feet,Roller Conveyor,10000.0,10000.0,square feet
-Roller Conveyor_square meter,Roller Conveyor,25000.0,25000.0,square meter
-Roller Conveyor_unit,Roller Conveyor,320000.0,1000.0,unit
-Rotary Screw Compressors_number,Rotary Screw Compressors,180000.0,100000.0,number
-Rotary Screw Compressors_piece,Rotary Screw Compressors,340000.0,120000.0,piece
-Rotary Screw Compressors_unit,Rotary Screw Compressors,1375000.0,250.0,unit
-Roti Makers_box,Roti Makers,1199.0,1199.0,box
-Roti Makers_piece,Roti Makers,65000.0,160.0,piece
-Roti Makers_unit,Roti Makers,200000.0,200000.0,unit
-Rubber Conveyor Belt_centimeter,Rubber Conveyor Belt,12.0,12.0,centimeter
-Rubber Conveyor Belt_feet,Rubber Conveyor Belt,100.0,80.0,feet
-Rubber Conveyor Belt_foot,Rubber Conveyor Belt,3000.0,3000.0,foot
-Rubber Conveyor Belt_kilogram,Rubber Conveyor Belt,100.0,35.0,kilogram
-Rubber Conveyor Belt_meter,Rubber Conveyor Belt,3000.0,18.0,meter
-Rubber Conveyor Belt_micrometer,Rubber Conveyor Belt,15.0,15.0,micrometer
-Rubber Conveyor Belt_number,Rubber Conveyor Belt,10000.0,10000.0,number
-Rubber Conveyor Belt_pair,Rubber Conveyor Belt,1000.0,1000.0,pair
-Rubber Conveyor Belt_piece,Rubber Conveyor Belt,35000.0,40.0,piece
-Rubber Conveyor Belt_roll,Rubber Conveyor Belt,25000.0,25000.0,roll
-Rubber Conveyor Belt_running meter,Rubber Conveyor Belt,1800.0,1800.0,running meter
-Rubber Conveyor Belt_square feet,Rubber Conveyor Belt,1500.0,1200.0,square feet
-Rubber Conveyor Belt_square meter,Rubber Conveyor Belt,3500.0,2200.0,square meter
-Rubber Conveyor Belt_unit,Rubber Conveyor Belt,90000.0,1500.0,unit
-Single Phase Induction Motors_bag,Single Phase Induction Motors,5200.0,5200.0,bag
-Single Phase Induction Motors_box,Single Phase Induction Motors,3500.0,3500.0,box
-Single Phase Induction Motors_number,Single Phase Induction Motors,16200.0,16200.0,number
-Single Phase Induction Motors_pair,Single Phase Induction Motors,5160.0,4800.0,pair
-Single Phase Induction Motors_piece,Single Phase Induction Motors,12500.0,1.0,piece
-Single Phase Induction Motors_square meter,Single Phase Induction Motors,4500.0,4500.0,square meter
-Single Phase Induction Motors_unit,Single Phase Induction Motors,9000.0,2250.0,unit
-Single Stage Reciprocating Compressor_number,Single Stage Reciprocating Compressor,29001.0,20000.0,number
-Single Stage Reciprocating Compressor_piece,Single Stage Reciprocating Compressor,130000.0,7500.0,piece
-Single Stage Reciprocating Compressor_set,Single Stage Reciprocating Compressor,45000.0,15000.0,set
-Single Stage Reciprocating Compressor_unit,Single Stage Reciprocating Compressor,40000.0,9000.0,unit
-Skid Steer Loader_piece,Skid Steer Loader,3654000.0,1750000.0,piece
-Skid Steer Loader_unit,Skid Steer Loader,1850000.0,1400000.0,unit
-Slat Conveyor_feet,Slat Conveyor,3000.0,3000.0,feet
-Slat Conveyor_kilogram,Slat Conveyor,67.0,67.0,kilogram
-Slat Conveyor_meter,Slat Conveyor,48000.0,12000.0,meter
-Slat Conveyor_number,Slat Conveyor,36500.0,5000.0,number
-Slat Conveyor_piece,Slat Conveyor,300000.0,20000.0,piece
-Slat Conveyor_running feet,Slat Conveyor,6000.0,2500.0,running feet
-Slat Conveyor_set,Slat Conveyor,50000.0,50000.0,set
-Slat Conveyor_unit,Slat Conveyor,290000.8,17600.0,unit
-Solar Fans_box,Solar Fans,150.0,150.0,box
-Solar Fans_number,Solar Fans,485.0,450.0,number
-Solar Fans_piece,Solar Fans,2550.0,140.0,piece
-Solar Fans_unit,Solar Fans,2500.0,2500.0,unit
-Solar Fans_watt,Solar Fans,700.0,700.0,watt
-Solar Pump Controller_20 container,Solar Pump Controller,18.0,18.0,20 container
-Solar Pump Controller_box,Solar Pump Controller,11000.0,11000.0,box
-Solar Pump Controller_kilowatt,Solar Pump Controller,22000.0,22000.0,kilowatt
-Solar Pump Controller_number,Solar Pump Controller,23900.0,15000.0,number
-Solar Pump Controller_piece,Solar Pump Controller,33000.0,1800.0,piece
-Solar Pump Controller_unit,Solar Pump Controller,35500.0,350.0,unit
-Sony Digital Camera_piece,Sony Digital Camera,96990.0,7290.0,piece
-Sony Digital Camera_unit,Sony Digital Camera,243214.0,243214.0,unit
-Spun Yarn_box,Spun Yarn,80.0,80.0,box
-Spun Yarn_kilogram,Spun Yarn,350.0,80.0,kilogram
-Spun Yarn_tons,Spun Yarn,330.0,330.0,tons
-Stainless Steel Cable Tie_number,Stainless Steel Cable Tie,2.5,2.5,number
-Stainless Steel Cable Tie_packet,Stainless Steel Cable Tie,350.0,285.0,packet
-Stainless Steel Cable Tie_peice,Stainless Steel Cable Tie,5.0,5.0,peice
-Stainless Steel Cable Tie_piece,Stainless Steel Cable Tie,30.0,3.0,piece
-Stainless Steel Cable Tie_unit,Stainless Steel Cable Tie,9645.0,9645.0,unit
-Steam Iron_box,Steam Iron,2300.0,1800.0,box
-Steam Iron_foot,Steam Iron,1.0,1.0,foot
-Steam Iron_number,Steam Iron,30000.0,700.0,number
-Steam Iron_piece,Steam Iron,3200.0,250.0,piece
-Steam Iron_set,Steam Iron,2850.0,2450.0,set
-Steam Iron_unit,Steam Iron,3500.0,999.0,unit
-Tea Packaging Machine_number,Tea Packaging Machine,365000.0,365000.0,number
-Tea Packaging Machine_packet,Tea Packaging Machine,75000.0,75000.0,packet
-Tea Packaging Machine_piece,Tea Packaging Machine,150000.0,75000.0,piece
-Tea Packaging Machine_set,Tea Packaging Machine,500000.0,275000.0,set
-Tea Packaging Machine_unit,Tea Packaging Machine,350000.0,70000.0,unit
-Textile Yarn_kilogram,Textile Yarn,510.0,65.0,kilogram
-Textile Yarn_kilometer,Textile Yarn,186.0,186.0,kilometer
-Textile Yarn_packet,Textile Yarn,200.0,200.0,packet
-Textile Yarn_piece,Textile Yarn,85.0,85.0,piece
-Three Phase Induction Motor_bag,Three Phase Induction Motor,5200.0,5200.0,bag
-Three Phase Induction Motor_number,Three Phase Induction Motor,7500.0,6500.0,number
-Three Phase Induction Motor_pair,Three Phase Induction Motor,5160.0,5160.0,pair
-Three Phase Induction Motor_piece,Three Phase Induction Motor,39870.0,1820.0,piece
-Three Phase Induction Motor_unit,Three Phase Induction Motor,10000.0,2025.0,unit
-Toaster_piece,Toaster,32000.0,300.0,piece
-Toaster_unit,Toaster,1395.0,999.0,unit
-Tractor Front End Loader_ounce,Tractor Front End Loader,100000.0,100000.0,ounce
-Tractor Front End Loader_piece,Tractor Front End Loader,650000.0,30000.0,piece
-Tractor Front End Loader_set,Tractor Front End Loader,75000.0,75000.0,set
-Tractor Front End Loader_unit,Tractor Front End Loader,415000.0,35000.0,unit
-Tractor Mounted Air Compressor_pair,Tractor Mounted Air Compressor,2000.0,2000.0,pair
-Tractor Mounted Air Compressor_piece,Tractor Mounted Air Compressor,150000.0,600.0,piece
-Tractor Mounted Air Compressor_set,Tractor Mounted Air Compressor,160000.0,100.0,set
-Tractor Mounted Air Compressor_unit,Tractor Mounted Air Compressor,800000.0,14000.0,unit
-Tube Filling Machine_number,Tube Filling Machine,800000.0,550000.0,number
-Tube Filling Machine_piece,Tube Filling Machine,104200.0,4500.0,piece
-Tube Filling Machine_set,Tube Filling Machine,710000.0,710000.0,set
-Tube Filling Machine_unit,Tube Filling Machine,650000.0,275000.0,unit
-Twisted Yarn_kilogram,Twisted Yarn,300.0,25.0,kilogram
-Vertical Form Fill Seal Machines_number,Vertical Form Fill Seal Machines,1200000.0,1200000.0,number
-Vertical Form Fill Seal Machines_piece,Vertical Form Fill Seal Machines,165000.0,90000.0,piece
-Vertical Form Fill Seal Machines_set,Vertical Form Fill Seal Machines,2610000.0,2610000.0,set
-Vertical Form Fill Seal Machines_unit,Vertical Form Fill Seal Machines,400000.0,250000.0,unit
-Water Demineralization Plant_number,Water Demineralization Plant,250000.0,150000.0,number
-Water Demineralization Plant_piece,Water Demineralization Plant,290000.0,10000.0,piece
-Water Demineralization Plant_set,Water Demineralization Plant,150000.0,100000.0,set
-Water Demineralization Plant_unit,Water Demineralization Plant,150000.0,5000.0,unit
-Water Packaging Machine_number,Water Packaging Machine,40000.0,40000.0,number
-Water Packaging Machine_pair,Water Packaging Machine,550000.0,110000.0,pair
-Water Packaging Machine_piece,Water Packaging Machine,350000.0,105000.0,piece
-Water Packaging Machine_set,Water Packaging Machine,1500000.0,1500000.0,set
-Water Packaging Machine_unit,Water Packaging Machine,155000.0,100000.0,unit
-Wheel Loader_month,Wheel Loader,150000.0,150000.0,month
-Wheel Loader_number,Wheel Loader,3400000.0,1600000.0,number
-Wheel Loader_pack,Wheel Loader,3200000.0,3200000.0,pack
-Wheel Loader_piece,Wheel Loader,5900000.0,2000000.0,piece
-Wheel Loader_set,Wheel Loader,292230.0,4500.0,set
-Wheel Loader_unit,Wheel Loader,4100000.0,515000.0,unit
-Wire Drawing Machines_kilogram,Wire Drawing Machines,555.0,555.0,kilogram
-Wire Drawing Machines_piece,Wire Drawing Machines,480000.0,5800.0,piece
-Wire Drawing Machines_set,Wire Drawing Machines,1240000.0,250000.0,set
-Wire Drawing Machines_sheet,Wire Drawing Machines,250000.0,250000.0,sheet
-Wire Drawing Machines_unit,Wire Drawing Machines,950000.0,20000.0,unit
-Womens Capri_kilogram,Womens Capri,150.0,150.0,kilogram
-Womens Capri_piece,Womens Capri,579.0,60.0,piece
-Womens Capri_set,Womens Capri,330.0,330.0,set
-Womens Capri_unit,Womens Capri,435.0,435.0,unit
-Wooden Crates_box,Wooden Crates,325.0,325.0,box
-Wooden Crates_cubic feet,Wooden Crates,550.0,280.0,cubic feet
-Wooden Crates_feet,Wooden Crates,500.0,500.0,feet
-Wooden Crates_inch,Wooden Crates,10.0,10.0,inch
-Wooden Crates_kilogram,Wooden Crates,100.0,50.0,kilogram
-Wooden Crates_number,Wooden Crates,385.0,385.0,number
-Wooden Crates_piece,Wooden Crates,2150.0,200.0,piece
-Wooden Crates_square feet,Wooden Crates,100.0,35.0,square feet
-Wooden Crates_square inch,Wooden Crates,30.0,10.0,square inch
-Wooden Crates_unit,Wooden Crates,750.0,600.0,unit
+,category,unit_type,min_range,max_range
+AC Motors_box,AC Motors,box,1600.0,1600.0
+AC Motors_number,AC Motors,number,22000.0,25000.0
+AC Motors_piece,AC Motors,piece,45.0,12000.0
+AC Motors_set,AC Motors,set,100.0,100.0
+AC Motors_unit,AC Motors,unit,2000.0,28000.0
+Acme Safety Shoes_box,Acme Safety Shoes,box,860.0,860.0
+Acme Safety Shoes_pair,Acme Safety Shoes,pair,200.0,1100.0
+Acme Safety Shoes_piece,Acme Safety Shoes,piece,200.0,399.0
+Acme Safety Shoes_unit,Acme Safety Shoes,unit,680.0,720.0
+Air Conditioner Voltage Stabilizer_box,Air Conditioner Voltage Stabilizer,box,300.0,1900.0
+Air Conditioner Voltage Stabilizer_number,Air Conditioner Voltage Stabilizer,number,1250.0,1250.0
+Air Conditioner Voltage Stabilizer_piece,Air Conditioner Voltage Stabilizer,piece,120.0,10000.0
+Air Conditioner Voltage Stabilizer_unit,Air Conditioner Voltage Stabilizer,unit,1439.6,3500.0
+Air Spray Gun_piece,Air Spray Gun,piece,100.0,22000.0
+Air Spray Gun_unit,Air Spray Gun,unit,33000.0,36000.0
+Aluminium False Ceilings_number,Aluminium False Ceilings,number,200.0,200.0
+Aluminium False Ceilings_piece,Aluminium False Ceilings,piece,40.0,270.0
+Aluminium False Ceilings_square feet,Aluminium False Ceilings,square feet,8.5,135.0
+Aluminium False Ceilings_square inch,Aluminium False Ceilings,square inch,1.0,1.0
+Aluminium False Ceilings_square meter,Aluminium False Ceilings,square meter,650.0,650.0
+Aluminium Melting Furnace_number,Aluminium Melting Furnace,number,255000.0,750000.0
+Aluminium Melting Furnace_piece,Aluminium Melting Furnace,piece,50000.0,600000.0
+Aluminium Melting Furnace_set,Aluminium Melting Furnace,set,500000.0,500000.0
+Aluminium Melting Furnace_unit,Aluminium Melting Furnace,unit,100000.0,550000.0
+Aluminum Cables_kilogram,Aluminum Cables,kilogram,85.0,120.0
+Aluminum Cables_meter,Aluminum Cables,meter,0.5,200.0
+Aluminum Cables_roll,Aluminum Cables,roll,585.0,900.0
+Aluminum Cables_square meter,Aluminum Cables,square meter,37.0,37.0
+Aluminum Cables_unit,Aluminum Cables,unit,789.0,789.0
+Audio Amplifiers_box,Audio Amplifiers,box,38500.0,38500.0
+Audio Amplifiers_number,Audio Amplifiers,number,90000.0,90000.0
+Audio Amplifiers_one,Audio Amplifiers,one,13515.0,13515.0
+Audio Amplifiers_piece,Audio Amplifiers,piece,40.0,31746.0
+Audio Amplifiers_unit,Audio Amplifiers,unit,42000.0,42000.0
+Backhoe Loader_day,Backhoe Loader,day,80000.0,80000.0
+Backhoe Loader_hour,Backhoe Loader,hour,900.0,900.0
+Backhoe Loader_number,Backhoe Loader,number,1600000.0,2690000.0
+Backhoe Loader_one,Backhoe Loader,one,550000.0,550000.0
+Backhoe Loader_ounce,Backhoe Loader,ounce,690000.0,690000.0
+Backhoe Loader_piece,Backhoe Loader,piece,22000.0,1350000.0
+Backhoe Loader_set,Backhoe Loader,set,25000000.0,25000000.0
+Backhoe Loader_unit,Backhoe Loader,unit,1650000.0,2795000.0
+Bag Filling Machine_number,Bag Filling Machine,number,300000.0,300000.0
+Bag Filling Machine_piece,Bag Filling Machine,piece,150000.0,380000.0
+Bag Filling Machine_unit,Bag Filling Machine,unit,300000.0,395000.0
+Belt Conveyors_feet,Belt Conveyors,feet,2500.0,5000.0
+Belt Conveyors_foot,Belt Conveyors,foot,8000.0,10000.0
+Belt Conveyors_meter,Belt Conveyors,meter,500.0,65000.0
+Belt Conveyors_number,Belt Conveyors,number,5000.0,300000.0
+Belt Conveyors_piece,Belt Conveyors,piece,1000.0,350000.0
+Belt Conveyors_running feet,Belt Conveyors,running feet,3500.0,3500.0
+Belt Conveyors_set,Belt Conveyors,set,15000.0,150000.0
+Belt Conveyors_square feet,Belt Conveyors,square feet,10000.0,10000.0
+Belt Conveyors_square meter,Belt Conveyors,square meter,1200.0,25000.0
+Belt Conveyors_unit,Belt Conveyors,unit,1000.0,350000.0
+Belt Pulley_bag,Belt Pulley,bag,1450.0,1450.0
+Belt Pulley_inch,Belt Pulley,inch,23.0,30.0
+Belt Pulley_kilogram,Belt Pulley,kilogram,50.0,70.0
+Belt Pulley_kit,Belt Pulley,kit,399.0,399.0
+Belt Pulley_number,Belt Pulley,number,15.0,1800.0
+Belt Pulley_pair,Belt Pulley,pair,249.0,249.0
+Belt Pulley_piece,Belt Pulley,piece,40.0,2500.0
+Belt Pulley_unit,Belt Pulley,unit,105.0,1000.0
+Bench Drilling Machine_number,Bench Drilling Machine,number,23800.0,23800.0
+Bench Drilling Machine_piece,Bench Drilling Machine,piece,4890.0,18500.0
+Bench Drilling Machine_set,Bench Drilling Machine,set,320000.0,320000.0
+Bench Drilling Machine_unit,Bench Drilling Machine,unit,4500.0,60000.0
+Bio Fertilizers_50kg,Bio Fertilizers,50kg,1150.0,1150.0
+Bio Fertilizers_bag,Bio Fertilizers,bag,40.0,1500.0
+Bio Fertilizers_barrel,Bio Fertilizers,barrel,450.0,1000.0
+Bio Fertilizers_bottle,Bio Fertilizers,bottle,20.0,475.0
+Bio Fertilizers_box,Bio Fertilizers,box,225.0,630.0
+Bio Fertilizers_gallon,Bio Fertilizers,gallon,499.0,499.0
+Bio Fertilizers_gram,Bio Fertilizers,gram,30.0,350.0
+Bio Fertilizers_kilogram,Bio Fertilizers,kilogram,3.25,2050.0
+Bio Fertilizers_litre,Bio Fertilizers,litre,20.0,460.0
+Bio Fertilizers_long ton,Bio Fertilizers,long ton,3000.0,3000.0
+Bio Fertilizers_metric ton,Bio Fertilizers,metric ton,7800.0,10500.0
+Bio Fertilizers_milliliter,Bio Fertilizers,milliliter,75.0,80.0
+Bio Fertilizers_number,Bio Fertilizers,number,50.0,550.0
+Bio Fertilizers_pack,Bio Fertilizers,pack,30.0,440.0
+Bio Fertilizers_packet,Bio Fertilizers,packet,25.0,630.0
+Bio Fertilizers_piece,Bio Fertilizers,piece,20.0,300.0
+Bio Fertilizers_set,Bio Fertilizers,set,1500.0,1500.0
+Bio Fertilizers_ton,Bio Fertilizers,ton,5000.0,9000.0
+Bio Fertilizers_tons,Bio Fertilizers,tons,7500.0,7500.0
+Bio Fertilizers_unit,Bio Fertilizers,unit,120.0,320.0
+Biometric Devices_one,Biometric Devices,one,5200.0,7199.0
+Biometric Devices_packet,Biometric Devices,packet,22000.0,22000.0
+Biometric Devices_piece,Biometric Devices,piece,1.0,15000.0
+Biometric Devices_set,Biometric Devices,set,9500.0,9500.0
+Biometric Devices_unit,Biometric Devices,unit,1800.0,5550.0
+Bottle Filling Machines_bottle,Bottle Filling Machines,bottle,50000.0,50000.0
+Bottle Filling Machines_number,Bottle Filling Machines,number,900000.0,1950000.0
+Bottle Filling Machines_pair,Bottle Filling Machines,pair,850000.0,850000.0
+Bottle Filling Machines_piece,Bottle Filling Machines,piece,9.0,850000.0
+Bottle Filling Machines_set,Bottle Filling Machines,set,650000.0,1950000.0
+Bottle Filling Machines_square feet,Bottle Filling Machines,square feet,700000.0,700000.0
+Bottle Filling Machines_unit,Bottle Filling Machines,unit,18000.0,3500000.0
+Bucket Elevator_feet,Bucket Elevator,feet,1500.0,4000.0
+Bucket Elevator_foot,Bucket Elevator,foot,2000.0,2500.0
+Bucket Elevator_kilogram,Bucket Elevator,kilogram,450.0,450.0
+Bucket Elevator_meter,Bucket Elevator,meter,20000.0,20000.0
+Bucket Elevator_number,Bucket Elevator,number,138000.0,210000.0
+Bucket Elevator_piece,Bucket Elevator,piece,1.0,550000.0
+Bucket Elevator_set,Bucket Elevator,set,320000.0,320000.0
+Bucket Elevator_unit,Bucket Elevator,unit,100.0,480000.0
+Busbar Systems_meter,Busbar Systems,meter,450.0,2900.0
+Busbar Systems_number,Busbar Systems,number,3688.0,3688.0
+Busbar Systems_piece,Busbar Systems,piece,25.0,250.0
+Busbar Systems_unit,Busbar Systems,unit,8120.0,150000.0
+Butt Hinges_box,Butt Hinges,box,92.0,92.0
+Butt Hinges_kilogram,Butt Hinges,kilogram,45.0,100.0
+Butt Hinges_packet,Butt Hinges,packet,75.0,75.0
+Butt Hinges_piece,Butt Hinges,piece,3.65,140.0
+Butt Hinges_set,Butt Hinges,set,6500.0,6500.0
+Butt Hinges_unit,Butt Hinges,unit,13.5,13.5
+Button Hole Machine_carton,Button Hole Machine,carton,185000.0,185000.0
+Button Hole Machine_number,Button Hole Machine,number,135000.0,135000.0
+Button Hole Machine_piece,Button Hole Machine,piece,1.0,225000.0
+Button Hole Machine_set,Button Hole Machine,set,70000.0,165000.0
+Button Hole Machine_unit,Button Hole Machine,unit,22000.0,86000.0
+CNC Milling Machine_number,CNC Milling Machine,number,621000.0,621000.0
+CNC Milling Machine_piece,CNC Milling Machine,piece,1.0,1750000.0
+CNC Milling Machine_set,CNC Milling Machine,set,900000.0,900000.0
+CNC Milling Machine_unit,CNC Milling Machine,unit,250000.0,3000000.0
+Camera Lenses_piece,Camera Lenses,piece,45.0,205990.0
+Camera Lenses_set,Camera Lenses,set,22000.0,22000.0
+Camera Lenses_unit,Camera Lenses,unit,2100.0,2100.0
+Canon Digital Camera_bag,Canon Digital Camera,bag,33000.0,33000.0
+Canon Digital Camera_piece,Canon Digital Camera,piece,25000.0,60000.0
+Canon Digital Camera_unit,Canon Digital Camera,unit,16000.0,75000.0
+Coffee Makers_box,Coffee Makers,box,11500.0,11500.0
+Coffee Makers_piece,Coffee Makers,piece,1.0,16500.0
+Coffee Makers_unit,Coffee Makers,unit,7000.0,7500.0
+Color Printers_box,Color Printers,box,34999.0,45000.0
+Color Printers_number,Color Printers,number,19500.0,90000.0
+Color Printers_ounce,Color Printers,ounce,118000.0,118000.0
+Color Printers_piece,Color Printers,piece,2050.0,379500.0
+Color Printers_set,Color Printers,set,100.0,100000.0
+Color Printers_unit,Color Printers,unit,7500.0,121000.0
+Colored Contact Lenses_box,Colored Contact Lenses,box,2600.0,2600.0
+Colored Contact Lenses_pair,Colored Contact Lenses,pair,199.0,750.0
+Colored Contact Lenses_piece,Colored Contact Lenses,piece,250.0,250.0
+Compressor Oil_20 container,Compressor Oil,20 container,3400.0,3400.0
+Compressor Oil_barrel,Compressor Oil,barrel,29400.0,29400.0
+Compressor Oil_litre,Compressor Oil,litre,1.0,650.0
+Compressor Oil_piece,Compressor Oil,piece,300.0,5000.0
+Conveyor Chains_feet,Conveyor Chains,feet,150.0,600.0
+Conveyor Chains_foot,Conveyor Chains,foot,100.0,185.0
+Conveyor Chains_meter,Conveyor Chains,meter,100.0,2000.0
+Conveyor Chains_number,Conveyor Chains,number,10000.0,10000.0
+Conveyor Chains_packet,Conveyor Chains,packet,1500.0,1500.0
+Conveyor Chains_piece,Conveyor Chains,piece,100.0,4000.0
+Conveyor Chains_square feet,Conveyor Chains,square feet,87.0,87.0
+Conveyor Chains_unit,Conveyor Chains,unit,100.0,10000.0
+Copper Cables_box,Copper Cables,box,2433.0,2433.0
+Copper Cables_bundle,Copper Cables,bundle,23.0,23.0
+Copper Cables_kilogram,Copper Cables,kilogram,550.0,550.0
+Copper Cables_meter,Copper Cables,meter,2.0,300.0
+Copper Cables_packet,Copper Cables,packet,710.0,710.0
+Copper Cables_piece,Copper Cables,piece,140.0,16970.0
+Copper Cables_roll,Copper Cables,roll,350.0,2656.0
+Copper Cables_unit,Copper Cables,unit,3820.0,3820.0
+Copper Earthing Electrode_inch,Copper Earthing Electrode,inch,8.0,8.0
+Copper Earthing Electrode_kilogram,Copper Earthing Electrode,kilogram,285.0,4501.0
+Copper Earthing Electrode_meter,Copper Earthing Electrode,meter,450.0,600.0
+Copper Earthing Electrode_number,Copper Earthing Electrode,number,10.0,1250.0
+Copper Earthing Electrode_pack,Copper Earthing Electrode,pack,5500.0,5500.0
+Copper Earthing Electrode_piece,Copper Earthing Electrode,piece,7800.0,16000.0
+Copper Earthing Electrode_set,Copper Earthing Electrode,set,1200.0,4000.0
+Copper Earthing Electrode_unit,Copper Earthing Electrode,unit,2500.0,6500.0
+Desiccant Dryers_number,Desiccant Dryers,number,12000.0,12000.0
+Desiccant Dryers_piece,Desiccant Dryers,piece,300000.0,300000.0
+Desiccant Dryers_unit,Desiccant Dryers,unit,15000.0,50000.0
+Diesel Air Compressor_month,Diesel Air Compressor,month,25000.0,25000.0
+Diesel Air Compressor_piece,Diesel Air Compressor,piece,25000.0,42600.0
+Diesel Air Compressor_set,Diesel Air Compressor,set,650000.0,650000.0
+Diesel Air Compressor_unit,Diesel Air Compressor,unit,575000.0,1260000.0
+Drum Mixers_number,Drum Mixers,number,4850000.0,4850000.0
+Drum Mixers_piece,Drum Mixers,piece,17000.0,100000.0
+Drum Mixers_set,Drum Mixers,set,45000.0,45000.0
+Drum Mixers_unit,Drum Mixers,unit,22000.0,150000.0
+Dyed Polyester Yarn_kilogram,Dyed Polyester Yarn,kilogram,60.0,190.0
+Dyed Polyester Yarn_packet,Dyed Polyester Yarn,packet,27.0,27.0
+Dyed Polyester Yarn_piece,Dyed Polyester Yarn,piece,25.0,130.0
+Dyed Polyester Yarn_unit,Dyed Polyester Yarn,unit,82.0,82.0
+Eco Friendly Disposable Plates_box,Eco Friendly Disposable Plates,box,4000.0,5700.0
+Eco Friendly Disposable Plates_bundle,Eco Friendly Disposable Plates,bundle,30.0,30.0
+Eco Friendly Disposable Plates_dozen,Eco Friendly Disposable Plates,dozen,100.0,100.0
+Eco Friendly Disposable Plates_kilogram,Eco Friendly Disposable Plates,kilogram,40.0,40.0
+Eco Friendly Disposable Plates_litre,Eco Friendly Disposable Plates,litre,220.0,220.0
+Eco Friendly Disposable Plates_pack,Eco Friendly Disposable Plates,pack,8.7,60.0
+Eco Friendly Disposable Plates_packet,Eco Friendly Disposable Plates,packet,7.0,55.0
+Eco Friendly Disposable Plates_piece,Eco Friendly Disposable Plates,piece,0.3,5.75
+Eco Friendly Disposable Plates_plate,Eco Friendly Disposable Plates,plate,3.1,3.9
+Eco Friendly Disposable Plates_unit,Eco Friendly Disposable Plates,unit,6.0,8.0
+Electric Industrial Oven_number,Electric Industrial Oven,number,95000.0,350000.0
+Electric Industrial Oven_piece,Electric Industrial Oven,piece,15000.0,350000.0
+Electric Industrial Oven_set,Electric Industrial Oven,set,75000.0,75000.0
+Electric Industrial Oven_unit,Electric Industrial Oven,unit,10000.0,230000.0
+Electric Irons_carton,Electric Irons,carton,380.0,380.0
+Electric Irons_dozen,Electric Irons,dozen,400.0,400.0
+Electric Irons_kilogram,Electric Irons,kilogram,8.0,8.0
+Electric Irons_piece,Electric Irons,piece,45.0,1350.0
+Electric Irons_set,Electric Irons,set,1800.0,1800.0
+Electric Irons_unit,Electric Irons,unit,25.0,400.0
+Embroidery Machine_number,Embroidery Machine,number,185000.0,350000.0
+Embroidery Machine_packet,Embroidery Machine,packet,1.0,1.0
+Embroidery Machine_piece,Embroidery Machine,piece,3600.0,1500000.0
+Embroidery Machine_set,Embroidery Machine,set,100.0,525000.0
+Embroidery Machine_unit,Embroidery Machine,unit,1400000.0,2500000.0
+End Loader_piece,End Loader,piece,130000.0,290000.0
+End Loader_set,End Loader,set,75000.0,75000.0
+End Loader_unit,End Loader,unit,170000.0,415000.0
+Fire Safety Wear_meter,Fire Safety Wear,meter,600.0,600.0
+Fire Safety Wear_number,Fire Safety Wear,number,21500.0,21500.0
+Fire Safety Wear_piece,Fire Safety Wear,piece,650.0,15000.0
+Fire Safety Wear_set,Fire Safety Wear,set,10000.0,70000.0
+Fire Safety Wear_unit,Fire Safety Wear,unit,4500.0,7500.0
+Fleece Fabrics_kilogram,Fleece Fabrics,kilogram,120.0,285.0
+Fleece Fabrics_meter,Fleece Fabrics,meter,250.0,500.0
+Fleece Fabrics_set,Fleece Fabrics,set,690.0,690.0
+Food Processor_box,Food Processor,box,650.0,650.0
+Food Processor_piece,Food Processor,piece,800.0,10994.0
+Food Processor_set,Food Processor,set,7500.0,7500.0
+Food Processor_unit,Food Processor,unit,7500.0,7500.0
+Granules Packing Machine_piece,Granules Packing Machine,piece,39000.0,200000.0
+Granules Packing Machine_set,Granules Packing Machine,set,225000.0,350000.0
+Granules Packing Machine_unit,Granules Packing Machine,unit,90000.0,400000.0
+HMI Touch Panel_box,HMI Touch Panel,box,27000.0,40000.0
+HMI Touch Panel_number,HMI Touch Panel,number,1000.0,25000.0
+HMI Touch Panel_person,HMI Touch Panel,person,2000.0,2000.0
+HMI Touch Panel_piece,HMI Touch Panel,piece,1000.0,50000.0
+HMI Touch Panel_unit,HMI Touch Panel,unit,1000.0,62300.0
+Hair Removal Laser Machine_box,Hair Removal Laser Machine,box,11000.0,11000.0
+Hair Removal Laser Machine_number,Hair Removal Laser Machine,number,375000.0,375000.0
+Hair Removal Laser Machine_piece,Hair Removal Laser Machine,piece,1.0,490000.0
+Hair Removal Laser Machine_set,Hair Removal Laser Machine,set,173000.0,173000.0
+Hair Removal Laser Machine_unit,Hair Removal Laser Machine,unit,8.5,525000.0
+Hand Operated Hydraulic Press_millimeter,Hand Operated Hydraulic Press,millimeter,50000.0,50000.0
+Hand Operated Hydraulic Press_piece,Hand Operated Hydraulic Press,piece,15000.0,45000.0
+Hand Operated Hydraulic Press_set,Hand Operated Hydraulic Press,set,200000.0,200000.0
+Hand Operated Hydraulic Press_unit,Hand Operated Hydraulic Press,unit,1.0,110000.0
+Heat Resistant Conveyor Belt_feet,Heat Resistant Conveyor Belt,feet,8000.0,8000.0
+Heat Resistant Conveyor Belt_meter,Heat Resistant Conveyor Belt,meter,30.0,1600.0
+Heat Resistant Conveyor Belt_number,Heat Resistant Conveyor Belt,number,1190.0,1190.0
+Heat Resistant Conveyor Belt_piece,Heat Resistant Conveyor Belt,piece,700.0,700.0
+Heat Resistant Conveyor Belt_square feet,Heat Resistant Conveyor Belt,square feet,500.0,500.0
+Heat Resistant Conveyor Belt_square meter,Heat Resistant Conveyor Belt,square meter,700.0,1300.0
+High Pressure Air Compressor_number,High Pressure Air Compressor,number,20000.0,225000.0
+High Pressure Air Compressor_piece,High Pressure Air Compressor,piece,14000.0,200000.0
+High Pressure Air Compressor_set,High Pressure Air Compressor,set,65000.0,165000.0
+High Pressure Air Compressor_unit,High Pressure Air Compressor,unit,10000.0,360000.0
+Hydraulic Bending Machine_piece,Hydraulic Bending Machine,piece,160000.0,650000.0
+Hydraulic Bending Machine_unit,Hydraulic Bending Machine,unit,50000.0,50000.0
+Jar Filling Machine_number,Jar Filling Machine,number,500000.0,500000.0
+Jar Filling Machine_piece,Jar Filling Machine,piece,5000.0,300000.0
+Jar Filling Machine_set,Jar Filling Machine,set,600000.0,600000.0
+Jar Filling Machine_unit,Jar Filling Machine,unit,200000.0,650000.0
+Jindal GI Pipe_feet,Jindal GI Pipe,feet,27.0,27.0
+Jindal GI Pipe_kilogram,Jindal GI Pipe,kilogram,45.0,65.0
+Jindal GI Pipe_meter,Jindal GI Pipe,meter,20.0,140.0
+Jindal GI Pipe_piece,Jindal GI Pipe,piece,747.0,1000.0
+Jindal GI Pipe_ton,Jindal GI Pipe,ton,32500.0,32500.0
+Juicer Mixer Grinder_box,Juicer Mixer Grinder,box,699.0,2500.0
+Juicer Mixer Grinder_carton,Juicer Mixer Grinder,carton,1200.0,1200.0
+Juicer Mixer Grinder_number,Juicer Mixer Grinder,number,1499.0,1499.0
+Juicer Mixer Grinder_one,Juicer Mixer Grinder,one,1400.0,1450.0
+Juicer Mixer Grinder_pack,Juicer Mixer Grinder,pack,2600.0,5990.0
+Juicer Mixer Grinder_packet,Juicer Mixer Grinder,packet,2700.0,2700.0
+Juicer Mixer Grinder_pair,Juicer Mixer Grinder,pair,3500.0,3500.0
+Juicer Mixer Grinder_piece,Juicer Mixer Grinder,piece,1.0,8000.0
+Juicer Mixer Grinder_set,Juicer Mixer Grinder,set,825.0,2750.0
+Juicer Mixer Grinder_unit,Juicer Mixer Grinder,unit,199.0,2000.0
+Knitted Yarn_kilogram,Knitted Yarn,kilogram,30.0,450.0
+Knitted Yarn_piece,Knitted Yarn,piece,1.0,205.0
+Ladies Palazzo_bag,Ladies Palazzo,bag,190.0,190.0
+Ladies Palazzo_box,Ladies Palazzo,box,105.0,110.0
+Ladies Palazzo_carton,Ladies Palazzo,carton,130.0,130.0
+Ladies Palazzo_meter,Ladies Palazzo,meter,125.0,125.0
+Ladies Palazzo_number,Ladies Palazzo,number,130.0,750.0
+Ladies Palazzo_packet,Ladies Palazzo,packet,290.0,299.0
+Ladies Palazzo_pair,Ladies Palazzo,pair,180.0,180.0
+Ladies Palazzo_piece,Ladies Palazzo,piece,1.0,474.0
+Ladies Palazzo_set,Ladies Palazzo,set,200.0,795.0
+Ladies Palazzo_unit,Ladies Palazzo,unit,130.0,500.0
+Leather Flash Drive_piece,Leather Flash Drive,piece,140.0,434.0
+Lining Fabric_kilogram,Lining Fabric,kilogram,205.0,210.0
+Lining Fabric_meter,Lining Fabric,meter,4.0,65.0
+Lining Fabric_piece,Lining Fabric,piece,13.5,13.5
+Lining Fabric_roll,Lining Fabric,roll,1500.0,1500.0
+Lining Fabric_unit,Lining Fabric,unit,60.0,60.0
+Liquid Filling Machine_bottle,Liquid Filling Machine,bottle,50000.0,50000.0
+Liquid Filling Machine_number,Liquid Filling Machine,number,70000.0,450000.0
+Liquid Filling Machine_pair,Liquid Filling Machine,pair,950000.0,950000.0
+Liquid Filling Machine_piece,Liquid Filling Machine,piece,15.0,550000.0
+Liquid Filling Machine_pouch,Liquid Filling Machine,pouch,104000.0,104000.0
+Liquid Filling Machine_set,Liquid Filling Machine,set,35000.0,1950000.0
+Liquid Filling Machine_square feet,Liquid Filling Machine,square feet,700000.0,700000.0
+Liquid Filling Machine_unit,Liquid Filling Machine,unit,1200.0,550000.0
+Marble God Statue_box,Marble God Statue,box,5100.0,5100.0
+Marble God Statue_feet,Marble God Statue,feet,11000.0,21000.0
+Marble God Statue_foot,Marble God Statue,foot,3500.0,10000.0
+Marble God Statue_inch,Marble God Statue,inch,800.0,3200.0
+Marble God Statue_pack,Marble God Statue,pack,23500.0,23500.0
+Marble God Statue_pair,Marble God Statue,pair,11000.0,25000.0
+Marble God Statue_piece,Marble God Statue,piece,1.0,70000.0
+Marble God Statue_set,Marble God Statue,set,11000.0,45000.0
+Marble God Statue_unit,Marble God Statue,unit,1000.0,21000.0
+Mens Capri_piece,Mens Capri,piece,45.0,250.0
+Mineral Water Filling Machine_number,Mineral Water Filling Machine,number,650000.0,750000.0
+Mineral Water Filling Machine_pair,Mineral Water Filling Machine,pair,950000.0,950000.0
+Mineral Water Filling Machine_piece,Mineral Water Filling Machine,piece,5000.0,950000.0
+Mineral Water Filling Machine_set,Mineral Water Filling Machine,set,1350000.0,1700000.0
+Mineral Water Filling Machine_unit,Mineral Water Filling Machine,unit,280000.0,2500000.0
+Optical Fiber_meter,Optical Fiber,meter,4.0,19.0
+Optical Fiber_number,Optical Fiber,number,700.0,700.0
+Optical Fiber_piece,Optical Fiber,piece,190000.0,190000.0
+Optical Fiber_set,Optical Fiber,set,365.0,365.0
+Optical Fiber_unit,Optical Fiber,unit,14.0,100.0
+PVC Cables_box,PVC Cables,box,360.0,490.0
+PVC Cables_bundle,PVC Cables,bundle,1333.0,1333.0
+PVC Cables_kilogram,PVC Cables,kilogram,113.33,113.33
+PVC Cables_meter,PVC Cables,meter,0.2,100.0
+PVC Cables_piece,PVC Cables,piece,10.0,720.0
+PVC Cables_roll,PVC Cables,roll,125.0,224.0
+PVC Cables_unit,PVC Cables,unit,2552.0,3050.0
+PVC Roofing Sheet_bag,PVC Roofing Sheet,bag,302.0,302.0
+PVC Roofing Sheet_kilogram,PVC Roofing Sheet,kilogram,70.0,82.0
+PVC Roofing Sheet_meter,PVC Roofing Sheet,meter,250.0,250.0
+PVC Roofing Sheet_piece,PVC Roofing Sheet,piece,1050.0,1050.0
+PVC Roofing Sheet_sheet,PVC Roofing Sheet,sheet,600.0,600.0
+PVC Roofing Sheet_square feet,PVC Roofing Sheet,square feet,12.0,125.0
+PVC Roofing Sheet_square meter,PVC Roofing Sheet,square meter,350.0,550.0
+Pneumatic Impact Wrenches_kit,Pneumatic Impact Wrenches,kit,4500.0,4500.0
+Pneumatic Impact Wrenches_number,Pneumatic Impact Wrenches,number,9800.0,16900.0
+Pneumatic Impact Wrenches_piece,Pneumatic Impact Wrenches,piece,1.0,22000.0
+Pneumatic Impact Wrenches_unit,Pneumatic Impact Wrenches,unit,11500.0,19000.0
+Polyester Filament Yarn_kilogram,Polyester Filament Yarn,kilogram,1.7,400.0
+Polyester Filament Yarn_roll,Polyester Filament Yarn,roll,700.0,700.0
+Polyester Textured Yarn_box,Polyester Textured Yarn,box,200.0,200.0
+Polyester Textured Yarn_kilogram,Polyester Textured Yarn,kilogram,2.56,110.0
+Polyester Textured Yarn_kilometer,Polyester Textured Yarn,kilometer,165.0,165.0
+Polyester Textured Yarn_piece,Polyester Textured Yarn,piece,134.0,134.0
+Polyester Thread_box,Polyester Thread,box,44.0,260.0
+Polyester Thread_dozen,Polyester Thread,dozen,400.0,400.0
+Polyester Thread_kilogram,Polyester Thread,kilogram,120.0,250.0
+Polyester Thread_meter,Polyester Thread,meter,80.0,80.0
+Polyester Thread_number,Polyester Thread,number,40.0,40.0
+Polyester Thread_packet,Polyester Thread,packet,57.0,240.0
+Polyester Thread_piece,Polyester Thread,piece,5.0,45.0
+Polyester Thread_roll,Polyester Thread,roll,230.0,400.0
+Polyester Thread_unit,Polyester Thread,unit,24.0,52.0
+Porcelain Tiles_box,Porcelain Tiles,box,1.0,660.0
+Porcelain Tiles_square feet,Porcelain Tiles,square feet,20.0,125.0
+Porcelain Tiles_square meter,Porcelain Tiles,square meter,3.4,7.0
+Porcelain Tiles_unit,Porcelain Tiles,unit,80.0,80.0
+Pouch Filling Machine_bag,Pouch Filling Machine,bag,110000.0,110000.0
+Pouch Filling Machine_piece,Pouch Filling Machine,piece,39000.0,170000.0
+Pouch Filling Machine_set,Pouch Filling Machine,set,165000.0,196800.0
+Pouch Filling Machine_unit,Pouch Filling Machine,unit,35000.0,200000.0
+Powder Filling Machine_month,Powder Filling Machine,month,565000.0,565000.0
+Powder Filling Machine_number,Powder Filling Machine,number,150000.0,275000.0
+Powder Filling Machine_piece,Powder Filling Machine,piece,25552.0,1000000.0
+Powder Filling Machine_set,Powder Filling Machine,set,135000.0,150000.0
+Powder Filling Machine_unit,Powder Filling Machine,unit,125000.0,400000.0
+Refrigeration Compressors_number,Refrigeration Compressors,number,12000.0,12000.0
+Refrigeration Compressors_piece,Refrigeration Compressors,piece,1600.0,30000.0
+Refrigeration Compressors_unit,Refrigeration Compressors,unit,5000.0,25000.0
+Roller Conveyor_bag,Roller Conveyor,bag,350.0,350.0
+Roller Conveyor_feet,Roller Conveyor,feet,4850.0,4850.0
+Roller Conveyor_foot,Roller Conveyor,foot,4500.0,4500.0
+Roller Conveyor_meter,Roller Conveyor,meter,1500.0,40500.0
+Roller Conveyor_number,Roller Conveyor,number,300.0,60000.0
+Roller Conveyor_pair,Roller Conveyor,pair,20000.0,20000.0
+Roller Conveyor_piece,Roller Conveyor,piece,3.0,250000.0
+Roller Conveyor_plate,Roller Conveyor,plate,120000.0,120000.0
+Roller Conveyor_set,Roller Conveyor,set,40000.0,40000.0
+Roller Conveyor_square feet,Roller Conveyor,square feet,10000.0,10000.0
+Roller Conveyor_square meter,Roller Conveyor,square meter,25000.0,25000.0
+Roller Conveyor_unit,Roller Conveyor,unit,1000.0,320000.0
+Rotary Screw Compressors_number,Rotary Screw Compressors,number,100000.0,180000.0
+Rotary Screw Compressors_piece,Rotary Screw Compressors,piece,120000.0,340000.0
+Rotary Screw Compressors_unit,Rotary Screw Compressors,unit,250.0,1375000.0
+Roti Makers_box,Roti Makers,box,1199.0,1199.0
+Roti Makers_piece,Roti Makers,piece,160.0,65000.0
+Roti Makers_unit,Roti Makers,unit,200000.0,200000.0
+Rubber Conveyor Belt_centimeter,Rubber Conveyor Belt,centimeter,12.0,12.0
+Rubber Conveyor Belt_feet,Rubber Conveyor Belt,feet,80.0,100.0
+Rubber Conveyor Belt_foot,Rubber Conveyor Belt,foot,3000.0,3000.0
+Rubber Conveyor Belt_kilogram,Rubber Conveyor Belt,kilogram,35.0,100.0
+Rubber Conveyor Belt_meter,Rubber Conveyor Belt,meter,18.0,3000.0
+Rubber Conveyor Belt_micrometer,Rubber Conveyor Belt,micrometer,15.0,15.0
+Rubber Conveyor Belt_number,Rubber Conveyor Belt,number,10000.0,10000.0
+Rubber Conveyor Belt_pair,Rubber Conveyor Belt,pair,1000.0,1000.0
+Rubber Conveyor Belt_piece,Rubber Conveyor Belt,piece,40.0,35000.0
+Rubber Conveyor Belt_roll,Rubber Conveyor Belt,roll,25000.0,25000.0
+Rubber Conveyor Belt_running meter,Rubber Conveyor Belt,running meter,1800.0,1800.0
+Rubber Conveyor Belt_square feet,Rubber Conveyor Belt,square feet,1200.0,1500.0
+Rubber Conveyor Belt_square meter,Rubber Conveyor Belt,square meter,2200.0,3500.0
+Rubber Conveyor Belt_unit,Rubber Conveyor Belt,unit,1500.0,90000.0
+Single Phase Induction Motors_bag,Single Phase Induction Motors,bag,5200.0,5200.0
+Single Phase Induction Motors_box,Single Phase Induction Motors,box,3500.0,3500.0
+Single Phase Induction Motors_number,Single Phase Induction Motors,number,16200.0,16200.0
+Single Phase Induction Motors_pair,Single Phase Induction Motors,pair,4800.0,5160.0
+Single Phase Induction Motors_piece,Single Phase Induction Motors,piece,1.0,8000.0
+Single Phase Induction Motors_square meter,Single Phase Induction Motors,square meter,4500.0,4500.0
+Single Phase Induction Motors_unit,Single Phase Induction Motors,unit,2250.0,9000.0
+Single Stage Reciprocating Compressor_number,Single Stage Reciprocating Compressor,number,20000.0,29001.0
+Single Stage Reciprocating Compressor_piece,Single Stage Reciprocating Compressor,piece,7500.0,130000.0
+Single Stage Reciprocating Compressor_set,Single Stage Reciprocating Compressor,set,15000.0,45000.0
+Single Stage Reciprocating Compressor_unit,Single Stage Reciprocating Compressor,unit,9000.0,40000.0
+Skid Steer Loader_piece,Skid Steer Loader,piece,1750000.0,3654000.0
+Skid Steer Loader_unit,Skid Steer Loader,unit,1400000.0,1850000.0
+Slat Conveyor_feet,Slat Conveyor,feet,3000.0,3000.0
+Slat Conveyor_kilogram,Slat Conveyor,kilogram,67.0,67.0
+Slat Conveyor_meter,Slat Conveyor,meter,12000.0,48000.0
+Slat Conveyor_number,Slat Conveyor,number,5000.0,36500.0
+Slat Conveyor_piece,Slat Conveyor,piece,20000.0,300000.0
+Slat Conveyor_running feet,Slat Conveyor,running feet,2500.0,6000.0
+Slat Conveyor_set,Slat Conveyor,set,50000.0,50000.0
+Slat Conveyor_unit,Slat Conveyor,unit,17600.0,290000.8
+Solar Fans_box,Solar Fans,box,150.0,150.0
+Solar Fans_number,Solar Fans,number,450.0,485.0
+Solar Fans_piece,Solar Fans,piece,140.0,2550.0
+Solar Fans_unit,Solar Fans,unit,2500.0,2500.0
+Solar Fans_watt,Solar Fans,watt,700.0,700.0
+Solar Pump Controller_20 container,Solar Pump Controller,20 container,18.0,18.0
+Solar Pump Controller_box,Solar Pump Controller,box,11000.0,11000.0
+Solar Pump Controller_kilowatt,Solar Pump Controller,kilowatt,22000.0,22000.0
+Solar Pump Controller_number,Solar Pump Controller,number,15000.0,23900.0
+Solar Pump Controller_piece,Solar Pump Controller,piece,1800.0,33000.0
+Solar Pump Controller_unit,Solar Pump Controller,unit,350.0,35500.0
+Sony Digital Camera_piece,Sony Digital Camera,piece,7290.0,96990.0
+Sony Digital Camera_unit,Sony Digital Camera,unit,243214.0,243214.0
+Spun Yarn_box,Spun Yarn,box,80.0,80.0
+Spun Yarn_kilogram,Spun Yarn,kilogram,80.0,350.0
+Spun Yarn_tons,Spun Yarn,tons,330.0,330.0
+Stainless Steel Cable Tie_number,Stainless Steel Cable Tie,number,2.5,2.5
+Stainless Steel Cable Tie_packet,Stainless Steel Cable Tie,packet,285.0,350.0
+Stainless Steel Cable Tie_peice,Stainless Steel Cable Tie,peice,5.0,5.0
+Stainless Steel Cable Tie_piece,Stainless Steel Cable Tie,piece,3.0,65.0
+Stainless Steel Cable Tie_unit,Stainless Steel Cable Tie,unit,9645.0,9645.0
+Steam Iron_box,Steam Iron,box,1800.0,2300.0
+Steam Iron_foot,Steam Iron,foot,1.0,1.0
+Steam Iron_number,Steam Iron,number,700.0,30000.0
+Steam Iron_piece,Steam Iron,piece,250.0,3200.0
+Steam Iron_set,Steam Iron,set,2450.0,2850.0
+Steam Iron_unit,Steam Iron,unit,999.0,3500.0
+Tea Packaging Machine_number,Tea Packaging Machine,number,365000.0,365000.0
+Tea Packaging Machine_packet,Tea Packaging Machine,packet,75000.0,75000.0
+Tea Packaging Machine_piece,Tea Packaging Machine,piece,75000.0,150000.0
+Tea Packaging Machine_set,Tea Packaging Machine,set,275000.0,500000.0
+Tea Packaging Machine_unit,Tea Packaging Machine,unit,70000.0,350000.0
+Textile Yarn_kilogram,Textile Yarn,kilogram,65.0,510.0
+Textile Yarn_kilometer,Textile Yarn,kilometer,186.0,186.0
+Textile Yarn_packet,Textile Yarn,packet,200.0,200.0
+Textile Yarn_piece,Textile Yarn,piece,85.0,85.0
+Three Phase Induction Motor_bag,Three Phase Induction Motor,bag,5200.0,5200.0
+Three Phase Induction Motor_number,Three Phase Induction Motor,number,6500.0,7500.0
+Three Phase Induction Motor_pair,Three Phase Induction Motor,pair,5160.0,5160.0
+Three Phase Induction Motor_piece,Three Phase Induction Motor,piece,1820.0,39870.0
+Three Phase Induction Motor_unit,Three Phase Induction Motor,unit,2025.0,10000.0
+Toaster_piece,Toaster,piece,300.0,32000.0
+Toaster_unit,Toaster,unit,999.0,1395.0
+Tractor Front End Loader_ounce,Tractor Front End Loader,ounce,100000.0,100000.0
+Tractor Front End Loader_piece,Tractor Front End Loader,piece,30000.0,650000.0
+Tractor Front End Loader_set,Tractor Front End Loader,set,75000.0,75000.0
+Tractor Front End Loader_unit,Tractor Front End Loader,unit,35000.0,415000.0
+Tractor Mounted Air Compressor_pair,Tractor Mounted Air Compressor,pair,2000.0,2000.0
+Tractor Mounted Air Compressor_piece,Tractor Mounted Air Compressor,piece,600.0,150000.0
+Tractor Mounted Air Compressor_set,Tractor Mounted Air Compressor,set,100.0,160000.0
+Tractor Mounted Air Compressor_unit,Tractor Mounted Air Compressor,unit,14000.0,800000.0
+Tube Filling Machine_number,Tube Filling Machine,number,550000.0,800000.0
+Tube Filling Machine_piece,Tube Filling Machine,piece,4500.0,104200.0
+Tube Filling Machine_set,Tube Filling Machine,set,710000.0,710000.0
+Tube Filling Machine_unit,Tube Filling Machine,unit,275000.0,650000.0
+Twisted Yarn_kilogram,Twisted Yarn,kilogram,25.0,300.0
+Vertical Form Fill Seal Machines_number,Vertical Form Fill Seal Machines,number,1200000.0,1200000.0
+Vertical Form Fill Seal Machines_piece,Vertical Form Fill Seal Machines,piece,90000.0,165000.0
+Vertical Form Fill Seal Machines_set,Vertical Form Fill Seal Machines,set,2610000.0,2610000.0
+Vertical Form Fill Seal Machines_unit,Vertical Form Fill Seal Machines,unit,250000.0,400000.0
+Water Demineralization Plant_number,Water Demineralization Plant,number,150000.0,250000.0
+Water Demineralization Plant_piece,Water Demineralization Plant,piece,10000.0,290000.0
+Water Demineralization Plant_set,Water Demineralization Plant,set,100000.0,150000.0
+Water Demineralization Plant_unit,Water Demineralization Plant,unit,5000.0,150000.0
+Water Packaging Machine_number,Water Packaging Machine,number,40000.0,40000.0
+Water Packaging Machine_pair,Water Packaging Machine,pair,110000.0,550000.0
+Water Packaging Machine_piece,Water Packaging Machine,piece,105000.0,350000.0
+Water Packaging Machine_set,Water Packaging Machine,set,1500000.0,1500000.0
+Water Packaging Machine_unit,Water Packaging Machine,unit,100000.0,155000.0
+Wheel Loader_month,Wheel Loader,month,150000.0,150000.0
+Wheel Loader_number,Wheel Loader,number,1600000.0,3400000.0
+Wheel Loader_pack,Wheel Loader,pack,3200000.0,3200000.0
+Wheel Loader_piece,Wheel Loader,piece,2000000.0,5900000.0
+Wheel Loader_set,Wheel Loader,set,4500.0,292230.0
+Wheel Loader_unit,Wheel Loader,unit,515000.0,4100000.0
+Wire Drawing Machines_kilogram,Wire Drawing Machines,kilogram,555.0,555.0
+Wire Drawing Machines_piece,Wire Drawing Machines,piece,5800.0,480000.0
+Wire Drawing Machines_set,Wire Drawing Machines,set,250000.0,1240000.0
+Wire Drawing Machines_sheet,Wire Drawing Machines,sheet,250000.0,250000.0
+Wire Drawing Machines_unit,Wire Drawing Machines,unit,20000.0,950000.0
+Womens Capri_kilogram,Womens Capri,kilogram,150.0,150.0
+Womens Capri_piece,Womens Capri,piece,60.0,579.0
+Womens Capri_set,Womens Capri,set,330.0,330.0
+Womens Capri_unit,Womens Capri,unit,435.0,435.0
+Wooden Crates_box,Wooden Crates,box,325.0,325.0
+Wooden Crates_cubic feet,Wooden Crates,cubic feet,280.0,550.0
+Wooden Crates_feet,Wooden Crates,feet,500.0,500.0
+Wooden Crates_inch,Wooden Crates,inch,10.0,10.0
+Wooden Crates_kilogram,Wooden Crates,kilogram,50.0,100.0
+Wooden Crates_number,Wooden Crates,number,385.0,385.0
+Wooden Crates_piece,Wooden Crates,piece,200.0,2150.0
+Wooden Crates_square feet,Wooden Crates,square feet,35.0,100.0
+Wooden Crates_square inch,Wooden Crates,square inch,10.0,30.0
+Wooden Crates_unit,Wooden Crates,unit,600.0,750.0
